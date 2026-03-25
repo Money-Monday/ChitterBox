@@ -1,16 +1,15 @@
-# Global Town Square 🌍
+# GLOBAL TOWN SQUARE
 
-A command-line social platform where users can post headlines, explore stories, and track engagement through session timers.
+A command-line interface platform for posting and exploring stories.
 
-## 🚀 Features
-- **Post & Explore:** Share headlines and browse stories from others.
-- **Session Tracking:** Automatically tracks how many minutes users spend reading a post.
-- **Worldwide Top 3:** A live leaderboard of the most engaging posts.
-- **Admin Panel:** Special access to post advertisements and view total platform stats.
+### Console Output Example:
+```text
+==============================
+      GLOBAL TOWN SQUARE
+==============================
+ 1. POST
+ 2. EXPLORE
+ 3. ADMIN
+ 4. TOP 3
 
-## 🛠️ Installation
-1. Clone this repository.
-2. Ensure you have Python installed.
-3. Run the application:
-   ```bash
-   python main.py
+Select: 
